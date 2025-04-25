@@ -1,10 +1,10 @@
-## Ludo - A Dice Rolling Game
+## Dice Duel - A Dice Rolling Game
 
 ![App Screenshot](https://raw.githubusercontent.com/ashishraj-dev/Ludo-Game/refs/heads/master/assets/preview.png)
 
 ## Welcome 👋
 
-Ludo Dice is an interactive two-player dice game built with vanilla JavaScript. This project showcases modern web development practices with clean, responsive design and engaging gameplay mechanics.
+Dice Duel is an interactive two-player dice game built with vanilla JavaScript. This project showcases modern web development practices with clean, responsive design and engaging gameplay mechanics.
 
 ## Features
 
